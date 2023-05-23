@@ -1,0 +1,17 @@
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\bin\Debug\net6.0-windows\Windows Feature Control Panel.exe
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\bin\Debug\net6.0-windows\Windows Feature Control Panel.deps.json
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\bin\Debug\net6.0-windows\Windows Feature Control Panel.runtimeconfig.json
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\bin\Debug\net6.0-windows\Windows Feature Control Panel.dll
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\bin\Debug\net6.0-windows\Windows Feature Control Panel.pdb
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.csproj.AssemblyReference.cache
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows_Feature_Control_Panel.Form1.resources
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.csproj.GenerateResource.cache
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.AssemblyInfoInputs.cache
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.AssemblyInfo.cs
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.csproj.CoreCompileInputs.cache
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.dll
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\refint\Windows Feature Control Panel.dll
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.pdb
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\Windows Feature Control Panel.genruntimeconfig.cache
+C:\Users\Kiss Tibor Péter\source\repos\Windows Feature Control Panel\Windows Feature Control Panel\obj\Debug\net6.0-windows\ref\Windows Feature Control Panel.dll
