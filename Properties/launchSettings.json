@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WFCCDesktop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WFCCDesktop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

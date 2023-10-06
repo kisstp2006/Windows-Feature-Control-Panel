@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="WIndows_Feature_Control_Center_WinUI.Page.FileExplorer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WIndows_Feature_Control_Center_WinUI.Page"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock TextWrapping="Wrap" Text="File Explorer" HorizontalAlignment="Center" FontSize="48" Margin="20,20,0,0"/>
+        <InfoBar
+    IsOpen="False"
+    IsClosable="False"
+    Margin="20,20,20,20"
+    Severity="Warning"
+    Name="win10warn"
+    Title="Warning"
+    Message="To fully utilize the application's features, we recommend updating your Windows operating system to version '21000' or higher. This will enable you to access all functionalities and take advantage of the latest enhancements."/>
+        <Expander
+         IsExpanded="False"
+         ExpandDirection="Down"
+         VerticalAlignment="Center"
+         HorizontalAlignment="Stretch"
+         Padding="10,0,0,0"
+         Margin="5,20,5,20"
+         Header="Taskbar behaviors"
+         HorizontalContentAlignment="Center">
+            <Expander.Content>
+                <StackPanel>
+                        <TextBlock TextWrapping="Wrap" Text="WASDK File Explorer (ViVeTool)" HorizontalAlignment="Center" FontSize="14" Margin="0,10,0,0"/>
+                        <ComboBox   PlaceholderText="Pick a option" Width="200" HorizontalAlignment="Center" Name="XAML_File_Explorer" SelectionChanged="XAML_File_Explorer_SelectionChanged">
+                            <x:String>Disabled</x:String>
+                            <x:String>Enabled</x:String>
+                        </ComboBox>
+                        <TextBlock TextWrapping="Wrap" Text="New File Explorer Details Panel (ViVeTool)" HorizontalAlignment="Center" FontSize="14" Margin="0,10,0,0"/>
+                        <ComboBox   PlaceholderText="Pick a option" Width="200" HorizontalAlignment="Center" Name="File_Explorer_New_Detail_Panel" SelectionChanged="File_Explorer_New_Detail_Panel_SelectionChanged">
+                            <x:String>Disabled</x:String>
+                            <x:String>Enabled</x:String>
+                        </ComboBox>
+                    </StackPanel>
+            </Expander.Content>
+        </Expander>
+        </StackPanel>
+    </Grid>
+</Page>
